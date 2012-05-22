@@ -24,6 +24,7 @@ sources, motion blur as well as refraction.
         <img src="/assets/img/ray-tracing-2.jpg" alt="thumbnail2" title="thumbnail 2" />
     </a>
   </li>
+  <li class="span05"></li>
 </ul>
 
 <div class="modal fade" id="img1" style="display:none;">
