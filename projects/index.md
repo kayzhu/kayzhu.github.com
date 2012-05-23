@@ -9,11 +9,10 @@ Ongoing project.
 
 - - -
 ###Ray Tracing
-Simple ray tracing that demonstrates shadows, antialiasing, extended light
-sources, motion blur as well as refraction.
+Simple ray tracing that demonstrates shadows, antialiasing, extended light sources, motion blur, reflection as well as refraction.
 
 <ul class="thumbnails">
-  <li class="span05"></li>
+  <li class="span05">&nbsp;</li>
   <li class="span3">
     <a data-toggle="modal" href="#img1" class="thumbnail">
         <img src="/assets/img/ray-tracing-1.jpg" alt="thumbnail1" title="thumbnail 1" />
@@ -24,7 +23,7 @@ sources, motion blur as well as refraction.
         <img src="/assets/img/ray-tracing-2.jpg" alt="thumbnail2" title="thumbnail 2" />
     </a>
   </li>
-  <li class="span05"></li>
+  <li class="span05">&nbsp;</li>
 </ul>
 
 <div class="modal fade" id="img1" style="display:none;">
