@@ -4,8 +4,8 @@ title: Projects
 ---
 {% include JB/setup %}
 
-###[Reflect]()
-Ongoing project.
+###[Lake.io](http://lake.io/)
+Stealth project (for now).
 
 - - -
 ###Ray Tracing
