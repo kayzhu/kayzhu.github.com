@@ -11,7 +11,7 @@ The best way to reach me is through Twitter or Email:
 
 
 * Twitter: [@kayzh](https://twitter.com/#!/kayzh)
-* Email: no.deep.sea AT gmail
+* Email: me AT kayzhu.com
 
 My other online identities:
 * Github: [kayzh](https://github.com/kayzh)
