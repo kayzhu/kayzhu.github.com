@@ -5,8 +5,9 @@ title: Projects
 {% include JB/setup %}
 
 ###[PyCon Canada](http://pycon.ca)
-I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca). I am
-also a contributor to its website [pycon.ca](https://github.com/pyconca/pyconca).
+I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be
+held November 9-13, 2012 in Toronto. I am also a contributor to its website
+[pycon.ca](https://github.com/pyconca/pyconca).
 
 - - -
 ###[Lake.io](http://lake.io/)
