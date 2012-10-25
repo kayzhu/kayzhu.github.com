@@ -1,6 +1,9 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  overflow-y: scroll;
+}
+
 }
 .navbar {
   margin-bottom: 0;

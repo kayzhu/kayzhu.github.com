@@ -4,12 +4,18 @@ title: Projects
 ---
 {% include JB/setup %}
 
+###[PyCon Canada](http://pycon.ca)
+I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca). I am
+also a contributor to its website [pycon.ca](https://github.com/pyconca/pyconca).
+
+- - -
 ###[Lake.io](http://lake.io/)
 Stealth project (for now).
 
 - - -
-###Ray Tracing
-Simple ray tracing that demonstrates shadows, antialiasing, extended light sources, motion blur, reflection as well as refraction.
+###Computer Graphics: Ray Tracing
+Simple ray tracing that demonstrates shadows, antialiasing, extended light
+sources, motion blur, reflection as well as refraction. Written in C++.
 
 <ul class="thumbnails">
   <li class="span05">&nbsp;</li>
@@ -39,4 +45,7 @@ Simple ray tracing that demonstrates shadows, antialiasing, extended light sourc
 
 A project in which I created a 3D model clip in Blender, and then made a
 full-color hologram out of it.
+
+
+&#x20;<iframe src="http://player.vimeo.com/video/33199683?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" width="540" height="405" frameborder="0" webkitAllowFullScreen="true" mozallowfullscreen="true" allowFullScreen="true">&nbsp;</iframe>
 
