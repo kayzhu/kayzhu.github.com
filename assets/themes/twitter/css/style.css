@@ -1,7 +1,9 @@
 /* Override some defaults */
+html {
+  min-height: 100.2%;
+}
 html, body {
   background-color: #eee;
-  overflow-y: scroll;
 }
 
 }
