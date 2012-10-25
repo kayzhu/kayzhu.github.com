@@ -6,7 +6,7 @@ title: About
 
 ###About
 
-My name is Kay Zhu, and I am a software developer.
+My name is Kay Zhu, and I am a software engineer.
 
 My other online identities:
 * Github: [kayzh](https://github.com/kayzh)
