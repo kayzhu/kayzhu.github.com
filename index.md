@@ -1,4 +1,13 @@
 ---
 layout: default
-title: Main
 ---
+
+---
+layout: page
+title: Archive
+header: Post Archive
+group: navigation
+---
+
+{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}

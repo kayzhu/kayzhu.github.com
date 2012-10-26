@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Projects
+tagline: some of the things I have worked on
 ---
 
 ###[PyCon Canada](http://pycon.ca)
@@ -10,7 +11,7 @@ held November 9-13, 2012 in Toronto. I am also a contributor to its website
 
 - - -
 ###[Lake.io](http://lake.io/)
-Stealth project (for now).
+A real-time web application. This project has not yet been released.
 
 - - -
 ###Computer Graphics: Ray Tracing
@@ -44,7 +45,7 @@ sources, motion blur, reflection as well as refraction. Written in C++.
 ###### Optics Lab, University of Toronto
 
 A project in which I created a 3D model clip in Blender, and then made a
-full-color hologram out of it.
+full-color hologram out of it with class 4 laser.
 
 
 &#x20;<iframe src="http://player.vimeo.com/video/33199683?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" width="540" height="405" frameborder="0" webkitAllowFullScreen="true" mozallowfullscreen="true" allowFullScreen="true">&nbsp;</iframe>

@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Contact
+layout: page
+title: Contact Information
 ---
-
-###Contact Information
 
 The best way to reach me is through Twitter or Email:
 

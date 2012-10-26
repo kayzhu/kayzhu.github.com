@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: About
+tagline: this site and me
 ---
-
-###About
 
 My name is Kay Zhu, and I am a software engineer.
 
