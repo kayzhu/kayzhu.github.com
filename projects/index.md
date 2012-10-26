@@ -2,7 +2,6 @@
 layout: default
 title: Projects
 ---
-{% include JB/setup %}
 
 ###[PyCon Canada](http://pycon.ca)
 I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be

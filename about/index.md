@@ -2,7 +2,6 @@
 layout: default
 title: About
 ---
-{% include JB/setup %}
 
 ###About
 

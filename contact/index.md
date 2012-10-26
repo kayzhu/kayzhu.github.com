@@ -2,7 +2,6 @@
 layout: default
 title: Contact
 ---
-{% include JB/setup %}
 
 ###Contact Information
 
