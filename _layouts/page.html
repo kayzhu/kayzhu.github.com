@@ -1,4 +1,17 @@
 ---
 layout: default
 ---
-{% include themes/twitter/page.html %}
+<div class="row">
+  <div class="page-header">
+    <h2>{{ page.title }}</h2>
+    <h6>
+      {% if page.tagline %}
+      <small>{{ page.tagline }}</small>
+      {% endif %}
+    </h6>
+  </div>
+</div>
+<div class="row">
+  {{ content }}
+</div>
+
