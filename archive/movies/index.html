@@ -1,0 +1,11 @@
+---
+layout: page
+title: Archive:movies
+header: Post Archive
+group: archive-nav
+---
+{% include archive-tab %}
+
+{% assign posts_collate = site.categories.movies %}
+{% include JB/posts_collate %}
+
