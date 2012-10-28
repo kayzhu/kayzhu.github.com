@@ -4,9 +4,14 @@ title: About
 tagline: this site and me
 ---
 
-My name is Kay Zhu, and I am a software engineer.
+Kay Zhu is a software engineer who occasionally refers himself in third person.
 
-My other online identities:
+
+When he's not sitting in front of computer, you can find him watching movies in
+theatres, practicing judo, snowboarding or playing with his cat.
+
+
+His other online identities:
 * Github: [kayzh](https://github.com/kayzh)
 * stackoverflow: [kayzh](http://stackoverflow.com/users/853611/kay-zhu)
 

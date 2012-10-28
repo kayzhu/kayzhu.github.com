@@ -45,7 +45,7 @@ sources, motion blur, reflection as well as refraction. Written in C++.
 ###### Optics Lab, University of Toronto
 
 A project in which I created a 3D model clip in Blender, and then made a
-full-color hologram out of it with class 4 laser.
+full-color hologram out of it with the help of a class 4 laser.
 
 
 &#x20;<iframe src="http://player.vimeo.com/video/33199683?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" width="540" height="405" frameborder="0" webkitAllowFullScreen="true" mozallowfullscreen="true" allowFullScreen="true">&nbsp;</iframe>
