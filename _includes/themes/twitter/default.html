@@ -13,6 +13,7 @@
 
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/pygments.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
@@ -30,15 +31,15 @@
 
     <div class="container">
       <div class="row">
-        <div class="span1 offset11">
+        <div class="span12 tc">
           <header>
-            <a href="/" id="logo">Main page</a>
+            <a href="/" id="logo">Home Page</a>
           </header>
         </div>
       </div>
 
       <div class="row">
-        <div class = "span2">
+        <div class="span2">
           <ul class="nav nav-list tr" id="sidebar">
             <li><a href="/archive/">ARCHIVE</a></li>
             <li><a href="/projects/">PROJECTS</a></li>
@@ -48,15 +49,20 @@
           </ul>
         </div>
 
-        <div class="span7 offset1">
+        <div class="span75 offset05">
           {{ content }}
         </div>
+
         <div class="span2">&nbsp;</div>
       </div>
 
-      <footer>
-        <p>Copyright &copy; 2012 <a href="{{ site.author.twitter}}">{{ site.author.name }}</a></p>
-      </footer>
+      <div class="row">
+        <div class="span12 tc">
+          <footer>
+            <p>Copyright &copy; 2012 <a href="{{ site.author.twitter}}">{{ site.author.name }}</a></p>
+          </footer>
+        </div>
+      </div>
 
     </div> <!-- /container -->
 
