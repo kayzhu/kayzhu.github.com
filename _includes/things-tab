@@ -1,0 +1,19 @@
+<div class="row">
+<div id="navigation-tab" class="span75">
+  {% if page.title == "All" %}
+    <li><a href="{{BASE_PATH}}/archive/" class="selected things-tab">All</a></li>
+  {% else %}
+    <li><a href="{{BASE_PATH}}/archive/" class="things-tab">All</a></li>
+  {% endif %}
+  {% if page.title == "Writings" %}
+    <li><a href="{{BASE_PATH}}/archive/writings/" class="selected things-tab">Writings</a></li>
+  {% else %}
+    <li><a href="{{BASE_PATH}}/archive/writings" class="things-tab">Writings</a></li>
+  {% endif %}
+  {% if page.title == "Links" %}
+    <li><a href="{{BASE_PATH}}/archive/links/" class="selected things-tab">Links</a></li>
+  {% else %}
+    <li><a href="{{BASE_PATH}}/archive/links" class="things-tab">Links</a></li>
+  {% endif %}
+</div>
+</div>

@@ -1,0 +1,22 @@
+<div id="navigation-tab">
+  {% if page.title == "All" %}
+    <li><a href="{{BASE_PATH}}/archive/" class="selected archive-tab">All</a></li>
+  {% else %}
+    <li><a href="{{BASE_PATH}}/archive/" class="archive-tab">All</a></li>
+  {% endif %}
+  {% if page.title == "Writings" %}
+    <li><a href="{{BASE_PATH}}/archive/writings/" class="selected archive-tab">Writings</a></li>
+  {% else %}
+    <li><a href="{{BASE_PATH}}/archive/writings" class="archive-tab">Writings</a></li>
+  {% endif %}
+  {% if page.title == "Links" %}
+    <li><a href="{{BASE_PATH}}/archive/links/" class="selected archive-tab">Links</a></li>
+  {% else %}
+    <li><a href="{{BASE_PATH}}/archive/links" class="archive-tab">Links</a></li>
+  {% endif %}
+  {% if page.title == "Films" %}
+    <li><a href="{{BASE_PATH}}/archive/films/" class="selected archive-tab">Films</a></li>
+  {% else %}
+    <li><a href="{{BASE_PATH}}/archive/films/" class="archive-tab">Films</a></li>
+  {% endif %}
+</div>
