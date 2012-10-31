@@ -12,6 +12,7 @@ theatres, practicing judo, snowboarding or playing with his cat.
 
 
 His other online identities:
+* Twitter: [kayzh](http://twitter.com/kayzh)
 * Github: [kayzh](https://github.com/kayzh)
-* stackoverflow: [kayzh](http://stackoverflow.com/users/853611/kay-zhu)
+* Stackoverflow: [kayzh](http://stackoverflow.com/users/853611/kay-zhu)
 
