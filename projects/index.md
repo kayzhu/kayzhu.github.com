@@ -4,7 +4,14 @@ title: Projects
 tagline: some of the things I have worked on
 ---
 
-###[500Ducks](http://500ducks.com)
+###[PyCon Canada](http://pycon.ca)
+I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be
+held November 9-13, 2012 in Toronto. I am also a contributor to its website
+[pycon.ca](https://github.com/pyconca/pyconca).
+
+- - -
+
+###[500Ducks.com](http://500ducks.com)
 A fast reverse image search engine for [500px.com](http://500px.com) I built
 during the [Pixel Hack Day](http://pixelhackday.com). This search engine is
 capable of finding near-duplicates photos (for e.g., watermarked and with text
@@ -13,12 +20,6 @@ the size of the index.
 
 - - -
 
-###[PyCon Canada](http://pycon.ca)
-I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be
-held November 9-13, 2012 in Toronto. I am also a contributor to its website
-[pycon.ca](https://github.com/pyconca/pyconca).
-
-- - -
 ###[Lake.io](http://lake.io/)
 A real-time web application. This project has not yet been released.
 
