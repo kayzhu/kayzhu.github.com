@@ -11,7 +11,7 @@ held November 9-13, 2012 in Toronto. I am also a contributor to its website
 
 - - -
 
-###[500Ducks.com](http://500ducks.com)
+###[500 Ducks](http://500ducks.com)
 A fast reverse image search engine for [500px.com](http://500px.com) I built
 during the [Pixel Hack Day](http://pixelhackday.com). This search engine is
 capable of finding near-duplicates photos (for e.g., watermarked and with text
