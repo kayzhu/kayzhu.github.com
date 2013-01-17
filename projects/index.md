@@ -8,6 +8,8 @@ tagline: some of the things I have worked on
 A Python library that provides fast locality-sensitive hashing, with
 persistency support through Redis.
 
+- - -
+
 ###[PyCon Canada](http://pycon.ca)
 I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be
 held November 9-13, 2012 in Toronto. I am also a contributor to its website
