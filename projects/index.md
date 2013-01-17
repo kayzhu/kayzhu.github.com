@@ -4,6 +4,10 @@ title: Projects
 tagline: some of the things I have worked on
 ---
 
+###[LSHash](https://github.com/kayzh/LSHash)
+A Python library that provides fast locality-sensitive hashing, with
+persistency support through Redis.
+
 ###[PyCon Canada](http://pycon.ca)
 I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be
 held November 9-13, 2012 in Toronto. I am also a contributor to its website
@@ -12,11 +16,12 @@ held November 9-13, 2012 in Toronto. I am also a contributor to its website
 - - -
 
 ###[500 Ducks](http://500ducks.com)
-A fast reverse image search engine for [500px.com](http://500px.com) I built
-during the [Pixel Hack Day](http://pixelhackday.com). This search engine is
-capable of finding near-duplicates photos (for e.g., watermarked and with text
-overlay), as well as photos that are similiar, in constant time regardless of
-the size of the index.
+A fast reverse image search engine for [500px.com](http://500px.com) I
+initially built during the [Pixel Hack Day](http://pixelhackday.com), and kept
+on working to improve it. This search engine is capable of finding
+near-duplicates photos (for e.g., watermarked and with text overlay), as well
+as photos that are similiar. Search speed and quality, UI improvements are
+actively being developed.
 
 - - -
 

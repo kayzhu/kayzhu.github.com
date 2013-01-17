@@ -7,8 +7,8 @@ tagline: this site and me
 Kay Zhu is a software engineer who occasionally refers himself in third person.
 
 
-When he's not sitting in front of computer, you can find him watching movies in
-theatres, practicing judo, snowboarding or playing with his cat.
+When he's not sitting in front of a computer, you can find him watching movies
+in theatres, practicing judo, snowboarding or playing with his cat.
 
 
 His other online identities:
