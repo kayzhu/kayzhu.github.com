@@ -4,7 +4,7 @@ title: About
 tagline: this site and me
 ---
 
-Kay Zhu is a software engineer who occasionally refers himself in third person.
+Kay Zhu is a software engineer at Google who occasionally refers himself in third person.
 
 
 When he's not sitting in front of a computer, you can find him watching movies
