@@ -14,6 +14,7 @@ with his cat at home.
 
 
 His other online identities:
+
 * Twitter: [kayzh](http://twitter.com/kayzh)
 * Github: [kayzh](https://github.com/kayzh)
 * StackOverflow: [kayzh](http://stackoverflow.com/users/853611/kay-zhu)

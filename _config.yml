@@ -4,8 +4,7 @@
 permalink: /:categories/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
-pygments: true
+highligher: pygments
 #markdown: redcarpet Commented out since redcarpet isn't installed locally
 
 # Themes are encouraged to use these universal variables 

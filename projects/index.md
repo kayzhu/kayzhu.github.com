@@ -22,8 +22,7 @@ A fast reverse image search engine for [500px.com](http://500px.com) I
 initially built during the [Pixel Hack Day](http://pixelhackday.com), and kept
 on working to improve it. This search engine is capable of finding
 near-duplicates photos (for e.g., watermarked and with text overlay), as well
-as photos that are similiar. Search speed and quality, UI improvements are
-actively being developed.
+as photos that are similiar. This project is no longer available.
 
 - - -
 
@@ -31,6 +30,7 @@ actively being developed.
 A real-time web application. This project has not yet been released.
 
 - - -
+
 ###Computer Graphics: Ray Tracing
 Simple ray tracing that demonstrates shadows, antialiasing, extended light
 sources, motion blur, reflection as well as refraction. Written in C++.
@@ -58,7 +58,9 @@ sources, motion blur, reflection as well as refraction. Written in C++.
 </div>
 
 - - -
+
 ###[Digital Full-color Holography](https://vimeo.com/33199683)
+
 ###### Optics Lab, University of Toronto
 
 A project in which I created a 3D model clip in Blender, and then made a
