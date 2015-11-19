@@ -4,7 +4,7 @@ title: About
 tagline: this site and me
 ---
 
-Kay Zhu is a software engineer at Google. He occasionally refers himself in third
+Kay Zhu is a software engineer in the Virtual Reality group at Google. He occasionally refers himself in third
 person.
 
 
