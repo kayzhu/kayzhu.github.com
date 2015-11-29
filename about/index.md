@@ -10,7 +10,7 @@ person.
 
 When he's not sitting in front of a computer, you can find him watching movies
 in theatres, practicing judo, cycling/snowboarding on the mountains, or ~~playing
-with his cat at home~~ (see you on the other side of the rainbow bridge, Pp).
+with his cat at home~~(see you on the other side of the rainbow bridge, Pp).
 
 
 His other online identities:
