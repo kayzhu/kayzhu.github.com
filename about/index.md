@@ -11,10 +11,3 @@ person.
 When he's not sitting in front of a computer, you can find him watching movies
 in theatres, practicing judo, cycling/snowboarding on the mountains, or <del>playing
 with his cat at home</del> (see you on the other side of the rainbow bridge, Pp).
-
-
-His other online identities:
-
-* Twitter: [kayzh](http://twitter.com/kayzh)
-* Github: [kayzh](https://github.com/kayzh)
-* StackOverflow: [kayzh](http://stackoverflow.com/users/853611/kay-zhu)
