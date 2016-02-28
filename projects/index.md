@@ -4,20 +4,20 @@ title: Projects
 tagline: some of the things I have worked on
 ---
 
-####[LSHash](https://github.com/kayzh/LSHash)
+[LSHash](https://github.com/kayzh/LSHash)
 A Python library that provides fast locality-sensitive hashing, with
 persistency support through Redis.
 
 - - -
 
-####[PyCon Canada](http://pycon.ca)
+[PyCon Canada](http://pycon.ca)
 I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be
 held November 9-13, 2012 in Toronto. I am also a contributor to its website
 [pycon.ca](https://github.com/pyconca/pyconca).
 
 - - -
 
-####[500 Ducks](http://500ducks.com)
+[500 Ducks](http://500ducks.com)
 A fast reverse image search engine for [500px.com](http://500px.com) I
 initially built during the [Pixel Hack Day](http://pixelhackday.com), and kept
 on working to improve it. This search engine is capable of finding
@@ -26,7 +26,7 @@ as photos that are similiar. This project is no longer available.
 
 - - -
 
-####Computer Graphics: Ray Tracing
+Computer Graphics: Ray Tracing
 A ray tracer written in C++ that demonstrates shadows, antialiasing, extended
 light sources, motion blur, reflection as well as refraction.
 
@@ -54,7 +54,7 @@ light sources, motion blur, reflection as well as refraction.
 
 - - -
 
-####[Digital Full-color Holography](https://vimeo.com/33199683)
+[Digital Full-color Holography](https://vimeo.com/33199683)
 
 ###### Optics Lab, University of Toronto
 
