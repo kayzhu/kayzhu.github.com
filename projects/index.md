@@ -4,7 +4,7 @@ title: Projects
 tagline: some of the things I have worked on
 ---
 
-### [LSHash](https://github.com/kayzh/LSHash)
+### [LSHash](https://github.com/kayzhu/LSHash)
 A Python library for fast locality-sensitive hashing, with persistency support
 through Redis.
 
