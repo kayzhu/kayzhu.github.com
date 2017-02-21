@@ -11,8 +11,8 @@ through Redis.
 - - -
 
 ### [PyCon Canada](http://pycon.ca)
-I am one of the oragnizers for the first [PyCon Canada](http://pycon.ca), to be
-held November 9-13, 2012 in Toronto. I am also a contributor to its website
+I am one of the oragnizers for the first (2012) and second (2013)
+[PyCon Canada](http://pycon.ca) in Toronto. I was also a contributor to its website
 [pycon.ca](https://github.com/pyconca/pyconca).
 
 - - -
