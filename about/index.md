@@ -4,8 +4,7 @@ title: About
 tagline: this site and me
 ---
 
-Kay Zhu is a software engineer in the Virtual Reality group at Google. He occasionally refers himself in third
-person.
+Kay Zhu is a software engineer working on [compiler for TensorFlow](https://www.tensorflow.org/performance/xla/) at Google. Previously he also worked at Google VR group and Google Fiber. He occasionally refers himself in third person.
 
 
 When he's not sitting in front of a computer, you can find him watching movies
