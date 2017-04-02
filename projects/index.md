@@ -11,9 +11,8 @@ through Redis.
 - - -
 
 ### [PyCon Canada](http://pycon.ca)
-I was one of the oragnizers for the first (2012) and second (2013)
-[PyCon Canada](http://pycon.ca) in Toronto. I was also a contributor to its website
-[pycon.ca](https://github.com/pyconca/pyconca).
+I was one of the core oragnizers for the first (2012) and second (2013)
+[PyCon Canada](http://pycon.ca) in Toronto.
 
 - - -
 
