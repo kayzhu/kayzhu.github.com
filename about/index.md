@@ -4,9 +4,9 @@ title: About
 tagline: this site and me
 ---
 
-Kay Zhu is a software engineer working on 3D reconstruction from imagery in Google. Previously he worked on [XLA TPU compiler for TensorFlow](https://www.tensorflow.org/performance/xla/) at Google Brain and Platforms. Before that he worked on the light field project in [Matt Pharr](http://pharr.org/matt/)'s group in Google Daydream, and before that he worked on a low-latency, real-time cloud-based video transcoding pipeline and its playback component at Google Fiber.
+Kay Zhu is a software engineer working on 3D reconstruction in Google. Previously he worked on [XLA TPU compiler for TensorFlow](https://www.tensorflow.org/performance/xla/) at Google Brain and Platforms. Before that he worked on the light field project in [Matt Pharr](http://pharr.org/matt/)'s group in Google Daydream, and before that he worked on a low-latency, real-time and distributed software-based live video transcoding pipeline and its playback component at Google Fiber.
 
-His current main research interest is the intersection of multiview geometry and multiview stereo, machine learning and 3D graphics.
+His current main research interest is the intersection of multiview geometry, multiview stereo, machine learning and 3D graphics.
 
 He occasionally refers himself in third person.
 
