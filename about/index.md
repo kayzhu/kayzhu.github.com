@@ -13,6 +13,6 @@ Previously he worked on [XLA TPU compiler for TensorFlow](https://www.tensorflow
 He occasionally refers himself in third person.
 
 
-When he's not sitting in front of a computer, you can find him watching movies
-in theatres, practicing judo, [cycling](https://www.strava.com/athletes/kayzhu)/snowboarding in the mountains, or <del>playing
+When he's not sitting in front of a computer, you can find him watching [movies](https://letterboxd.com/hippotown/)
+in theatres, practicing judo, [cycling](https://www.strava.com/athletes/kayzhu) and snowboarding in the mountains, or <del>playing
 with his cat at home</del> (see you on the other side, Pp).
