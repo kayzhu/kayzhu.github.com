@@ -3,10 +3,8 @@ layout: page
 title: Contact Information
 ---
 
-The best way to reach me is through Twitter or Email:
+The best way to reach me is through Email:
 
-
-* Twitter: [@kayzh](https://twitter.com/#!/kayzh)
 * Email: <mailto:me@kayzhu.com>
 
 
